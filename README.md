@@ -45,7 +45,7 @@ Application has been started
 Input text has 43 characters
 After cleaning input text has 42 characters
 After splitting we have 9 words
-Sorting words alphabet was applied
+Sorting words alphabetically was applied
 Outputting result to the console
 ___________________________
 a - 1
